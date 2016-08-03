@@ -1,0 +1,7 @@
+org/academiadecodigo/SpringLogin/controller/UserController.class
+org/academiadecodigo/SpringLogin/controller/LoginController.class
+org/academiadecodigo/SpringLogin/service/MockUserService.class
+org/academiadecodigo/SpringLogin/user/User.class
+org/academiadecodigo/SpringLogin/service/UserService.class
+org/academiadecodigo/SpringLogin/controller/HelloController.class
+org/academiadecodigo/SpringLogin/Authenticator.class
